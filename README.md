@@ -1,4 +1,4 @@
 # ChatServer
-A chat server and client written in Java.
+A chat server and client written in Java. Made for my Highschool AP Computer Science project.
 
-Can send and receive messages to and from connected clients.
+Clients connect to the server and can send/receive messages from eachother.
